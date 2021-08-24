@@ -1,5 +1,0 @@
-101 Chocolate 80 100
-102 Ice-Cream 100 20
-103 Milkshake 35 30
-104 Biscuits 30 10
-105 Cakes 35 50
